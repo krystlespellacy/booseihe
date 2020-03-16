@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xeeghooyi.chew.tv/sitemap.xml
